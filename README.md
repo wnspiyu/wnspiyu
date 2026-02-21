@@ -1,7 +1,8 @@
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" height="30px" width="30px" alt="hi">, I'm Nipun Piyumantha</h1>
 
-<h4 align="center">🧑‍🎓A Final Year Undergraduate at Department of Electrical Engineering @University of Moratuwa, Sri Lanka</h4>
-<h4 align="center">👷Former Electrical Engineering Intern @Ceylon Electricty Board, Lanka Electricity Company and Panasian Power PLC, Sri Lanka</h4>
+<h4 align="center">👨🏻‍💻Devops Engineer @GTN </h4>
+<h4 align="center">🧑‍🎓Electrical Engineering Graduate @University of Moratuwa, Sri Lanka</h4>
+<h4 align="center">👷Former Electrical Engineering Intern @Ceylon Electricty Board, Lanka Electricity Company, Sri Lanka</h4>
 
 
 <h3 align="left">Languages</h3>
